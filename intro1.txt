@@ -1,1 +1,1 @@
-Basics Of Git 
+Following the instructions to add, commit and push
